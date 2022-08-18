@@ -1,0 +1,21 @@
+#calculator {
+    background: #F6F7FC;
+}
+
+.screen {
+    color: #505050;
+}
+
+button {
+    background: white;
+    color: #505050
+}
+
+button.operator {
+    background: #93A3F3;
+    color: white;
+}
+
+#theme-btn {
+    background: url("../image/moon-regular.svg") no-repeat transparent;
+}
